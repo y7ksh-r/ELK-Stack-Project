@@ -41,3 +41,21 @@ docker-compose up --build
 ```
 
 ## Dashboards
+
+![Dashboard image](https://github.com/user-attachments/assets/1e03e287-ee9b-4189-9478-a69d9f6d264d)
+
+![Log Volume Overtime](https://github.com/user-attachments/assets/f1a04a2a-9252-4f08-9225-4a0622e99300)
+
+![Log Level Breakdown](https://github.com/user-attachments/assets/0c828b3e-2c3d-4909-a2a8-868af48ee75c)
+
+![Log Volume VS Severity type](https://github.com/user-attachments/assets/4703c5ae-f053-4fa9-a037-6a20e88a52a2)
+
+![App Health Timeline](https://github.com/user-attachments/assets/df5620dd-48c6-423e-8496-c2cfae0ca842)
+
+![Top Messages](https://github.com/user-attachments/assets/331f3c3b-6d16-4fc6-9807-098b6c002016)
+
+
+
+
+
+
