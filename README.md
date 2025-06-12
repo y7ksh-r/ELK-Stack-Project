@@ -46,14 +46,14 @@ The following images display the Flask Logs Dashboard, which was created for thi
 
 ![Dashboard image](https://github.com/user-attachments/assets/1e03e287-ee9b-4189-9478-a69d9f6d264d)
 
-##Log Volume Over Time Chart
+## Log Volume Over Time Chart
 This chart is based on a Vertical Bar Graph, on the X-axis we have the time @timestamp, and on the Y-axis we have Count of Records 
 Usage:
 With this chart we can keep track of the number of Records aka the logs we have received each day or customize the time @timestamp by the preference of hour, minutes, days, or according to our needs.
 
 ![Log Volume Overtime](https://github.com/user-attachments/assets/f1a04a2a-9252-4f08-9225-4a0622e99300)
 
-##Log Level Breakdown
+## Log Level Breakdown
 
 
 ![Log Level Breakdown](https://github.com/user-attachments/assets/0c828b3e-2c3d-4909-a2a8-868af48ee75c)
