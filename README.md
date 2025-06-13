@@ -63,10 +63,6 @@ Distinguishes between the severity of the logs from each day of the application'
 
 ![Log Volume VS Severity type](https://github.com/user-attachments/assets/4703c5ae-f053-4fa9-a037-6a20e88a52a2)
 
-## App Health Timeline
-Visual timeline of info/warning/error logs.
-
-![App Health Timeline](https://github.com/user-attachments/assets/df5620dd-48c6-423e-8496-c2cfae0ca842)
 
 ## Top Messages
 Displays the top messages from the logs, which are customized through a Grok filter to make it more readable and easier to debug if any error occurs.
