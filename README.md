@@ -75,10 +75,13 @@ Displays the top messages from the logs, which are customized through a Grok fil
 
 # Video Walkthrough of the Project
 
+[Click here!](https://youtu.be/B6eC4rXYsGY)
 
 # Have Doubts?
+
 Contact me through:
 
+[Github](https://github.com/y7ksh-r) | [LinkedIn](https://www.linkedin.com/in/yaksh7/) | [Medium](https://medium.com/@yakshrajput77)  | [Dev.to](https://dev.to/yakshrajput7)
 
 
 
