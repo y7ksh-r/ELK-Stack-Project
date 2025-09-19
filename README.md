@@ -71,7 +71,7 @@ Displays the top messages from the logs, which are customized through a Grok fil
 
 # Video Walkthrough of the Project
 
-[Click here!](https://youtu.be/B6eC4rXYsGY)
+[Click here!](https://youtu.be/sy9Q2ykfCq0)
 
 # Have Doubts?
 
