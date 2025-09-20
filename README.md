@@ -1,4 +1,4 @@
-# ELK Stack Project
+# Flask App Observability with ELK Stack
 
 A zero-cost DevOps logging and monitoring stack using Docker,built to showcase how to capture Flask logs and visualize them using the ELK stack — all within AWS Free Tier or a local machine.
 
